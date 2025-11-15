@@ -1,0 +1,419 @@
+﻿Unnamed: 0,BrandName,ProductName,ProductPrice,ProductRating,Reviews
+0,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+1,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+2,,"Acer Aspire 3 12th Gen Intel Core i3-1215U Premium Laptop (16GB RAM/512GB SSD/Windows 11 Home) A325-51,15.6"" Full HD IPS Display, 54Whr Battery, Silver, 1.69 Kg",29990,4.0,635
+3,,"Lenovo IdeaPad Slim 3 13th Gen Intel Core i5-13420H 15.3""(38.8cm) WUXGA IPS Laptop(16GB RAM/512GB SSD/Win 11/Office Home 2024/Backlit/1Yr ADP Free/Top Metal Cover & IR Camera/Grey/1.6Kg), 83K100CGIN",55861,4.0,318
+4,,"HP 14 (2025), Intel Core 5 14th Gen 120U - (8 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0"" FHD Display/Ash Grey/1.4 kg/MS Office 2021",48490,5.0,1
+5,,"HP 255 G10 Laptop for Home or Work, 16GB RAM, 512GB SSD, 15.6"" Full HD, Ryzen 3 7330U (Beats Intel i5-1135G7), HDMI, USB-C, Windows 11 Pro, Business and Fun Ready",32490,4.6,38
+6,,"ASUS TUF A15 (2025), AMD Ryzen 7 7445HS, Gaming Laptop(RTX 3050,75W TGP,16GB DDR5(Upgradeable Upto 64GB )512GB SSD,FHD,15.6"",144Hz,RGB Keyboard,48Whrs,Windows 11,Graphite Black,2.3 Kg) FA506NCG-HN199W",68990,4.1,549
+7,,"ASUS Vivobook 15 (2025), AMD Ryzen 7 7730U Thin & Light Laptop(AMD Radeon iGPU/16GB RAM/512GB SSD/FHD/15.6""/60Hz/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.7Kg) M1502YA-BQ989WS",48990,4.0,76
+8,,"HP Professional 14 (2025), Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Intel Iris Xe Graphic/Windows 11 Home) Thin and Light Business Laptop/14.0"" FHD/Backlit + FingerPrint/Silver/1.4 Kg/MSO 2021",51511,5.0,1
+9,,"HP 15, 13th Gen Intel Core i5-1334U Laptop (12GB DDR4,512GB SSD) Anti-Glare,Micro-Edge,15.6''/39.6cm, FHD, Win11,M365,Office24, Silver,1.59kg, Iris Xe Graphics, FHD Camera w/Privacy Shutter, fd0575TU",48990,3.8,23
+10,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD Storage; Space Black",202990,5.0,1
+11,,"Apple 2025 MacBook Air (15-inch, Apple M4 chip with 10-core CPU and 10-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",119490,4.6,74
+12,,"HP 15s, 12th Gen Intel Core i3-1215U (8GB DDR4, 512GB SSD) Anti-Glare, 15.6""/39.6cm,FHD, Win 11, MS Office 21, Silver, 1.69kg, fy5006tu/fd0751tu/fd0752tu, UHD Graphics, HD Camera, Dual Speakers Laptop",32990,4.0,765
+13,,"Acer Aspire 3, Intel Core Celeron N4500, 12GB LPDDR4 RAM, 512GB SSD, HD, 14""/35.56cm, Windows 11 Home, Silver, 1.3KG, A324-45, Thin and Light Laptop",22990,3.4,721
+14,,"acer Aspire Lite, AMD Ryzen 3 5300U Processor, 16 GB RAM, 512GB SSD, Full HD, 15.6""/39.62cm, Windows 11 Home, Steel Gray, 1.59KG, AL15-41, Metal Body, Premium Thin and Light Laptop",29890,3.9,1900
+15,,"Lenovo IdeaPad Slim 3, 12th Gen Intel Core i5-12450H (16GB LPDDR5, 512GB SSD), Anti-glare, FHD 15.6""(39.6cm), Win 11, Office Home 2024, Arctic Grey, 1.62Kg, 83ER00MDIN, Thin & Light, Backlit KB Laptop",47400,4.2,55
+16,,"Chuwi CoreBook X Laptop 14'' Intel Core i3-10100Y, 8GB RAM 256GB SSD, Windows 11 Laptop, 1920x1200 FHD Display, Up to 3.9GHz | WiFi | Webcam | BT4.2 | 38Wh Battery | Iron Gray",19990,3.5,211
+17,,"ASUS TUF A16 (2025), AMD Ryzen 7 7445HS, Gaming Laptop (RTX 4050-6GB/140W TGP/16GB RAM/1TB SSD/FHD+/16""/144Hz/56Whrs/Windows 11/M365 Basic (1Year)*/Office Home 2024/Mecha Gray/2.2Kg) FA607NUG-RL189WS",89990,4.0,43
+18,,"Lenovo V15 G4 AMD Ryzen 5 7520U 15.6 inch FHD Laptop, AMD Graphics, 16GB DDR5 5500Mhz Ram, 512GB SSD NVMe, Windows 11, Dolby Audio, Arctic Grey, 1 Year Onsite Brand Warranty",35990,4.0,270
+19,,"Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB LPDDR5 Ram, 512 GB SSD PCIe, Windows 11 Lifetime Validity,15.6"" FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",26990,4.1,268
+20,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Silver",164490,5.0,1
+21,,"HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",64990,3.9,1700
+22,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+23,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+24,,"ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6""/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg) FA506NCR-HN054W",65990,4.1,549
+25,,"Primebook 2 Neo 2025 (New Launch) | 6GB RAM, 128GB Storage (Upgradable Upto 512GB) | MediaTek Helio G99 | Android 15 (PrimeOS3.0) | in-Built AI | 11.6” Thin & Light Laptop | Type-C, USB, MicroSD Ports",14990,4.5,342
+26,,"Samsung Galaxy Book3 360 Intel 13th Gen i7 EvoTM 33.78cm(13.3"") Super Amoled 2-in-1 Touchscreen Laptop (16 GB/512GB SSD/Windows11/MSOffice/BacklitKB/Fingerprint Sensor/Graphite/1.16Kg), NP730QFG-LA1IN",84990,,
+27,,"HP 15, 13th Gen Intel Core i5-1334U, (16GB DDR4,512GB SSD) Anti-Glare, Micro-Edge, FHD, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.59kg, fd0577TU, Iris Xe, FHD Camera w/Shutter Laptop",52490,3.7,248
+28,,"Walker Best Student &Office Work Laptop|Thin & Light|14.1"" 1920 * 1080 Resolution FHD IPS Display |4GB RAM,128GB SSD|Celeron Processor N4020 (Gemini Lake)| Windows 11 Home | Silver",12990,3.2,198
+29,,"acer Aspire Lite, 12th gen, Intel Core i5-12450H Processor, 16 GB, 512GB, 15.6""/39.62 cm, Windows 11 Home, MSO, Pure Silver, 1.70 kg, AL15-52H, Backlit Keyboard",44990,3.9,617
+30,,"Acer Aspire Lite, Intel Core i5 13th Gen - 1334U, 16GB RAM, 512GB SSD, Full HD 15.6""/39.62 cm, Windows 11 Home, MS Office, Steel Gray, 1.59 KG, AL15-53, Metal Body, Thin and Light Premium Laptop",42990,3.8,82
+31,,"ASUS Vivobook 15, Smartchoice, AMD Ryzen 7 5825U, 16GB RAM, 512GB SSD, FHD 15.6"", Windows 11, Office Home 2024, Quiet Blue, 1.7Kg, M1502YA-BQ703WS, AMD Radeon iGPU, M365 Basic (1Year)*, 42Whr Laptop",45990,4.0,76
+32,,"HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",64990,3.9,1700
+33,,"Apple 2025 MacBook Air (15-inch, Apple M4 chip with 10-core CPU and 10-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",119490,4.6,74
+34,,"Lenovo {SmartChoice)Chromebook Intel Celeron N4500 (4GB RAM/64GB eMMC 5.1/11.6 Inch (29.46cm)/HD Display/2Wx2 Stereo Speakers/HD Camera/Chrome OS/Blue/1.21Kg), 82UY0014HA",14990,3.8,97
+35,,"JioBook 11 with Lifetime Office | Android 4G Laptop Mediatek 8788 (JioOS) | Octa-core | 4GB RAM | 64 eMMC Storage | Thin and Light Laptop (11.6 inch, 990 Grams) | Dual Band WiFi + SIM | Blue",12990,3.0,489
+36,,"ASUS Vivobook 15, Smartchoice,Intel Core i5 13th Gen 13420H,16GB RAM, 512GB SSD, FHD 15.6"",Windows 11, Office Home 2024, Quiet Blue, 1.70 kg, X1502VA-BQ836WS,Intel UHD iGPU, M365 Basic (1Year)* Laptop",53990,4.1,479
+37,,"Cable World® Educational Laptop Computer Toy for Kids Above 3 Years - 20 Fun Activity Learning Machine, Now Learn Letter, Words, Games, Mathematics, Music, Logic, Memory Tool",699,3.8,4100
+38,,"ASUS Vivobook 14, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 14"", Windows 11, Office Home 2024, Cool Silver, 1.40kg, X1404VA-NK761WS, Intel UHD, M365 Basic (1Year)*, Backlit Keyboard Laptop",34990,3.9,427
+39,,"HP Smartchoice Victus, 13th Gen Intel Core i5-13420H, 4GB RTX 3050, 16GB DDR4(Upgradeable) 512GB SSD, 144Hz, 300nits, FHD, 15.6’’/39.6cm, Win11, Office24, Blue, 2.29kg, fa2190/fa2191tx Gaming Laptop",66990,3.8,479
+40,,"Lenovo V15 Intel Core i3 13th Gen (16GB RAM/512GB SSD/Windows 11 Home/Office 2024/Iron Grey) 15.6"" FHD (1920x1080) Antiglare 250 Nits Thin & Light Laptop/1Y Onsite/1.65 kg, 83CCA08KIN",36990,4.0,40
+41,,"Dell 15, AMD Ryzen 3 7320U Processor (8GB RAM / 512GB SSD/Windows 11 + Office H&S 2024 + M365 / 15.6""(39.62 Cm) FHD Display / 12 Month Mcafee/Carbon Black Color/ 1.63 Kg Thin & Light Laptop",28990,4.0,117
+42,,"Dell 15 Intel Core i5 13th Gen - 1334U, 16GB DDR4 RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'21, Grey, 1.66kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",55990,3.6,441
+43,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD Storage; Space Black",202990,5.0,1
+44,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+45,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+46,,"Samsung Galaxy Book4 (Gray, 16GB RAM, 512GB SSD) | 15.6"" Full HD Screen | Intel Core i5 1335U Processor | Windows 11 Home | MS Office 2021 | Fingerprint Reader | Intel Iris XE Graphics | RJ45 LAN Port",52450,4.1,105
+47,,"HP 15, AMD Ryzen 3 7320U (8GB LPDDR5, 512GB SSD) FHD, Anti-Glare, Micro-Edge, 15.6""/39.6cm, Win 11, Office 21, Silver, 1.59kg, fc0154AU, AMD Radeon Graphics, 1080p FHD Camera Laptop",30990,4.0,1900
+48,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Midnight",94990,4.6,783
+49,,"Lenovo IdeaPad Slim 1 AMD Ryzen 7 5700U 15.6"" HD Thin and Light Laptop (16GB/512GB SSD/Windows 11 Home/MS Office 2021/1 Year Warranty + 1 Year ADP/Cloud Grey/1.6Kg), 82R400EFIN",41899,3.8,31
+50,,"Acer One 11 Intel Celeron N4500 (Windows 11 Home/ 8 GB/ 256 GB SSD) 29.64 cm (11.6"") Anti Glare HD Laptop, Z8-284, 1.1 KG, Deep Blue",19999,2.8,48
+51,,"Amazon Basics ABS 2-in-1 Laptop and Mobile Stand, Ergonomic, Adjustable Height, Anti-Slip Base, Heat Dissipation, Portable, Lightweight, Compatible with All Laptops Up to 15.6"" (Black)",289,4.1,3400
+52,,"Portronics My Buddy K11 Metal Laptop Stand with 360° Rotation, Height & Angle Adjustable, Foldable Design, Improves Air Flow, Carbon Steel Body, 10 kg Max Weight for Laptops & MacBook (Black)",999,4.2,1800
+53,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+54,,"HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",64990,3.9,1700
+55,,"Apple 2025 MacBook Air (15-inch, Apple M4 chip with 10-core CPU and 10-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",119490,4.6,74
+56,,"Dyazo Water Resistant Laptop Sleeve/Laptop case/laptop cover with Handle Compatible for 15 Inch to 15.6"" Inches laptops & Notebooks - Grey",299,4.3,18500
+57,,"Sounce Mouse Pad Speed Type Mouse Pad with Antifray Stitched Embroidery Edges, Non-Slip Rubber Base Mousepad for Laptop PC (260mm x 210mm x 2mm) (Black)",89,4.4,2100
+58,,HP 255 Athlon 4 GB/ 128 GB SSD/DOS,24980,3.9,164
+59,,Geonix Trek T1 ABS Plastic Laptop Stand Height & Angle Adjustable | Foldable | Portable | Supports Maximum 5kg of Weight |Support Upto 17 inch (Black),199,4.2,88
+60,,"HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",64990,3.9,1700
+61,,"Gooyo 2011A Battery Operated Educational Learning Laptop Toy with LED Display and Music Effect | Babies/Girls/Boys/Toddlers | Blue Color, Power Source: 3xAA Battery (Not Included)",366,3.8,2300
+62,,"Vantro 200W Car Power Inverter/Laptop Charger with 3 USB (6.2A Max) & 1 C Type(1 * 27WPD) Smart USB Ports, 2 AC Universal Outlets and 12V DC to 220V AC with QC3.0 Model P2",2399,4.4,7300
+63,,"HP 15, AMD Ryzen 5 7520U, 16GB DDR5, 512GB SSD, (Win 11, Office 21, Silver, 1.59kg), Anti-Glare, Micro-Edge, 15.6-inch(39.6cm), FHD Laptop, AMD Radeon Graphics, 1080p FHD Camera, Backlit KB, fc0690au",42990,4.0,1400
+64,,"Dell 15 Intel Core i5 13th Gen - 1334U, 16GB DDR4 RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'21, Grey, 1.66kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",55990,3.6,441
+65,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Silver",164490,5.0,1
+66,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+67,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD Storage; Space Black",202990,5.0,1
+68,,"HP Smartchoice Victus, 13th Gen Intel Core i7-13620H, 8GB RTX 5050, 24GB DDR5(Upgradeable) 1TB SSD, 144Hz, FHD, 15.6''/39.6cm, Win11, M365* Office24, Mica Silver, 2.29kg, fa2309TX, RGB Gaming Laptop",102990,4.0,25
+69,,"HP 14 245 (2025), AMD Ryzen 5 7520U Quad Core - (8 GB/512 GB SSD/AMD Radeon Graphics/Windows 11 Home) Thin and Light Business Laptop/14.0"" HD Display/Ash Grey/1.36 kg/MS Office 2021",29990,4.1,15
+70,,"HP Professional 15 (2025), Intel Core i5 13th Gen 1334U - (16 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6"" FHD Display/Backlit/Turbo Silver/1.5 kg/MSO 2021",49800,5.0,1
+71,,"Acer Aspire 3 (2025) Intel Core i7 13th Gen 1334U - (16 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Home) Thin and Light Laptop/15.6"" FHD IPS Display/Metal Body/Silver/1.5 Kg/MSO 2021/3 Years Warranty",45390,4.0,7
+72,,"HP (4 GB/128 GB SSD/DOS NO Windows) 15.6"" HD Black",24990,3.5,14
+73,,"HP 15S AMD Ryzen 5000 (16GB Ram/512GB SSD/Fhd/Windows 11/Ms Office 21/Backlit Keyboard/ 15.6"" (39.6 Cm)/Silver/2.21 Kg) Eq2305Au/Eq2182Au Laptop",42699,4.1,1200
+74,,"Lenovo IdeaPad Slim 3, Intel Core i7-13620H, 13th Gen, 16GB RAM, 512GB SSD, FHD IPS 300 Nits, 15""/38.1cm, Windows 11, MSOffice 21, Grey, 1.6Kg, 83EM008GIN,1Yr ADP Free,Alexa Built-in Laptop",66400,4.1,446
+75,,"acer TravelLite Smart FHD TL04-51M Laptop, Intel Core i5 1334u 13th Gen 8 Core with 16GB Ram / 512GB NVMe SSD/Intel Iris Xe Graphics/Windows 11 / MS-Office / 14 Inch / 3 Year Brand Warranty",39999,3.8,5
+76,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+77,,"HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",64990,3.9,1700
+78,,HP 65W AC Laptops Charger Adapter 4.5mm for HP Pavilion Black (Without Power Cable),1162,4.3,3900
+79,,HP 65W AC Blue Pin Laptops Charger Adapter 4.5mm fit for HP Pavilion Black (with 3 pin Power Cable),1499,5.0,2
+80,,"EDNITA Mini Laptop Stand for Desk | Portable Metal PC Desk Stand, Aluminium Cooling Pad Mini Clip Compatible with MacBook Apple Laptop, Lenovo, Dell, Hp, Acer & Other Laptops Pack of-2 (Silver)",197,4.3,901
+81,,"Dell Inspiron 3530, Intel Core i7 13th Gen - 1355U, 16GB RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, Office H&S 2024, Silver, 1.62kg, Backlit KB, M365, 15 Month McAfee, Thin & Light Laptop",66990,3.9,95
+82,,"Florican Portable Invisible Laptop Riser Stand | Mini Aluminum Cooling Pad, Lightweight Laptop Desk Stand for MacBook, Lenovo, Dell, HP & Other Laptops (Cool Silver)",229,4.3,2200
+83,,"ASUS Vivobook Go 14, AMD Ryzen 3 7320U, 8GB RAM, 512GB SSD, FHD 14"", Windows 11, Office Home 2024, Mixed Black, 1.38 kg, E1404FA-NK3325WS, AMD Radeon iGPU, M365 Basic (1Year)*, Thin & Light Laptop",30990,4.1,155
+84,,"Sounce 3 in 1 Cleaning Set for Screen PC, Laptops, Monitors, Mobiles, LCD, LED, TV/Professional Quality/Prevents Static Electricity, 100ml with Micro Fiber Cloth and Soft Brush",149,4.2,3000
+85,,"acer SmartChoice ALG, 13th Gen Intel Core i5-13420H, NVIDIA GeForce RTX 3050-6GB DDR6, 16GB RAM, 512GB SSD, FHD 15.6""/39.62 cm, 144Hz, Windows 11 Home, Steel Gray, 1.99 KG, AL15G-53,Gaming Laptop",61290,3.9,240
+86,,"Dell 15 Intel Core i5 13th Gen - 1334U, 16GB DDR4 RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'21, Grey, 1.66kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",55990,3.6,441
+87,,"Primebook 2 Pro 2025 (New Launch) | 8GB RAM, 128GB UFS Storage | 14.1-Inch FHD IPS Display | 14 Hours Battery | MediaTek Helio G99 | Android 15 (PrimeOS 3.0) | Backlit Keyboard | in-Built AI (Gray)",18890,4.5,127
+88,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+89,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Silver",164490,5.0,1
+90,,"Gizga Essentials Universal Silicone Keyboard Protector Skin for 15.6 Inch Laptop |Keyboard Dust Cover | 15.6"" Keyguard (36.5 x 13.5 cm)",99,3.6,19600
+91,,"ZEBRONICS NC6500D Laptop Cooling Pad with Support up to 17 inch (43.18 cm) Laptops, Hexa Fans, Speed Control, RGB LED, Detachable Mobile Holder, 5 Step Retractable Stand, Built in USB Ports (Black)",1299,3.7,441
+92,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Silver",94990,4.6,783
+93,,"Asus 45W Laptop Adapter/Charger for Select Models of Asus (20 V, 2.5 A, 4 Mm X 1.2Mm Diameter), Black (Power Cable Included)",1424,,
+94,,"Dell SmartChoice G15-5530, Intel Core i5 13th Gen - 13450HX, NVIDIA RTX 3050-6GB, 16GB RAM, 1TB SSD, FHD 15.6""/39.62 cm, Windows 11, MS Office 21, Dark Shadow Grey, 2.65Kg Gaming Laptop",75990,4.0,1300
+95,,"ZEBRONICS NS3000 PRO 360° Rotatable Laptop Stand, Supports up to 17” (43cm) Laptops, Tablets, Supports Max 5kg, Carbon Steel with Anti Rust Body, Anti-Slip/Scratch Silicone Pads",799,3.7,2100
+96,,"Tizum Ergonomic Laptop Sand Riser/iPad Holder with 7 Adjustable Angles| Imported-CNC Cut, Fully Foldable & Portable| Premium Aluminum, Sturdy Base, Fast Heat Dissipation| for Laptops 15.6” (Black)",349,4.9,50
+97,,"FUR JADEN Anti Theft Number Lock Backpack Bag with 15.6 Inch Laptop Compartment, USB Charging Port & Organizer Pocket for Men Women Boys Girls",699,4.0,12400
+98,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+99,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD Storage; Space Black",202990,5.0,1
+100,,"HP 15, 13th Gen Intel Core i5-1334U (16GB DDR4, 512GB SSD) Anti-Glare, Micro-Edge, 15.6''/39.6cm, FHD, Win 11, Office 24, Silver, 1.59kg, fd0467tu, Iris Xe Graphics, FHD Camera, Backlit KB Laptop",54990,3.8,234
+101,,"HP Pavilion x360, 13th Gen Intel Core i5-1335U (16GB DDR4, 512GB SSD) Touchscreen, 14""/35.6cm, FHD, Win 11, Office 21, Silver, 1.51kg, ek1074tu/1148tu, Iris Xe, FPR, 5MP Camera, Backlit KB Laptop",66490,3.8,271
+102,,"Gizga Essentials Reversible Laptop Sleeve 15.6 Inch, Dual Color Neoprene Laptop Cover, Zipperless, Waterproof, Slim Fit Laptop Case for HP Dell Lenovo Asus Acer, MacBook, Mouse Pad Use (Red/Black)",199,4.1,26100
+103,,"HP 15, 13th Gen Intel Core i5-1335U (16GB DDR4, 1TB SSD) FHD, Anti-Glare, Micro-Edge, 15.6''/39.6cm, Win11, M365(1yr)* Office24, Silver, 1.59kg, FD0552TU, Iris Xe, FHD Camera w/Shutter, Backlit Laptop",58990,3.8,121
+104,,"Lenovo GX20K78585 65W Laptop Adapter/Charger with Power Cord for Select Models of (Round pin), Black",1399,4.2,6300
+105,,"amazon basics Laptop Stand, Height-Adjustable, Foldable, Portable, Ventilated, Fits Up to 15.6-Inch Laptops (Aluminium Alloy, Silver)",349,4.2,2800
+106,,"Lenovo V15 AMD Ryzen 7 7730U 15.6"" (39.62cm) FHD 250 Nits Antiglare Thin and Light Laptop (16GB/512GB SSD/Windows 11/Iron Grey/1.65 Kg) Grey",42490,4.2,215
+107,,"Dell 15DC15250, Intel Core i5 13th Gen - 1334U, 16GB RAM, 1TB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'24, Silver, 1.62kg, Backlit Keyboard, 15 Month McAfee, Thin & Light Laptop",59990,3.9,1100
+108,,"HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",64990,3.9,1700
+109,,"Dell 15 Intel Core i5 13th Gen - 1334U, 16GB DDR4 RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'21, Grey, 1.66kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",55990,3.6,441
+110,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+111,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Silver",164490,5.0,1
+112,,"Dell 15 Intel Core i5 13th Gen - 1334U, 16GB DDR4 RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'21, Grey, 1.66kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",55990,3.6,441
+113,,"HP 15, 13th Gen Intel Core i7-1355U (16GB DDR4, 512GB SSD) FHD, Anti-Glare, 15.6’’/39.6cm, Win11, M365(1yr)* Office 24, Silver, 1.59kg, Iris Xe, FHD Camera w/Shutter, Backlit Laptop fd0468tu/fd0515tu",64990,4.0,104
+114,,"Amazon Basics Laptop Bag Sleeve Case Cover Pouch for Men & Women | 14.1 Inch Laptop/MacBook, Office/College Laptop Bag | Side Handle | Multiple Pockets | Water Repellent | Shock Absorber (Grey)",269,4.1,678
+115,,"Gizga Essentials Laptop Power Cable Cord- 3 Pin Adapter, 3 yrs Warranty (ISI Certified, 1 meter /3.3 Feet)",199,4.1,11700
+116,,"MSI Stealth A16 AI+,AMD Ryzen AI 9 365,41CM QHD+ 240Hz Gaming Laptop(32GB/1TB NVMe SSD/Windows 11 Home/Office 2021/NVIDIA GeForce RTX 4060,GDDR6 8GB/Core Black/2.1Kg) A3HVFG-075IN",198900,5.0,1
+117,,"Aliens 2-in-1 Laptop and Mobile Foldable Stand, Adjustable Height, Ventilated, Anti-Slip Base Compatible with MacBook, Asus, Tablet, ipad, iPhone, Samsung, Smartphone and All Laptops Up to 15.6""-BLK",279,3.9,30
+118,,"Lenovo IdeaPad Slim 1 AMD Ryzen 5 5500U 15.6"" HD Thin and Light Laptop (16GB/512GB SSD/Integrated AMD Graphics/Windows 11 Home/MSO 21/1Yr ADP Free/Cloud Grey/1.61Kg), 82R400ERIN",35950,4.0,489
+119,,"Portronics Bubble 3.0 Wireless Keyboard with Bluetooth + 2.4 GHz USB Receiver, Rechargeable Battery, Dual Height Adjustment, Multimedia Hotkeys with Numpad, for Laptop, PC, Smartphone, Tablet(Black)",999,4.1,379
+120,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+121,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD Storage; Space Black",202990,5.0,1
+122,,"500 Pcs Laptop Notebook Computer Replacement Screws Kit | Compatible with Lenovo, Toshiba, Gateway, Samsung, HP, IBM, Dell, Sony, Acer, Asus | SSD, Hard Disk, (1 Box (500 Pcs))",455,5.0,3
+123,,"Microsoft New Surface Pro (11Th Edition) - Windows 11 Home Copilot + Pc - 13"" LCD Pixelsense Touchscreen - Qualcomm Snapdragon X Plus (10 Core,Wi-Fi) - 16Gb Ram - 256Gb Ssd - Platinum - ZHX-00014",113990,4.3,29
+124,,"Lenovo V15 G4 (2024), AMD Ryzen 3 7320U Quad Core - (8GB/512GB SSD/AMD Radeon Graphics/Windows 11 Home) Thin and Light Business Laptop/15.6"" FHD Display/Arctic Grey/1.57 kg/MS Office 2021",29980,3.8,75
+125,,"DELL 15 (2025) Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6"" HD Display/Smoky Black/1.5 kg/MSO 2021/1 Year ADP Warranty",35940,5.0,2
+126,,Artis 65Watt Universal Laptop Adapter with 8 Interchangeable Connector pins (Power Cord Included) Compatible with USB Type C/Dell/HP/Lenovo/ASUS/Acer/Samsung/Compaq/IBM/Toshiba,1099,3.6,2800
+127,,Amazon Basics Laptop Bag Sleeve Case Cover Pouch with Handle for Men & Women | 15.6 Inch Laptop with Padded Laptop Compartment | Zipper Closure | Water Repellent Nylon Fabric (Grey),299,4.2,401
+128,,"EvoFox Blizzard 2 Xtreme Laptop Cooling Pad | Dual Semiconductor Plates, 2x140 mm Fans, RGB Lighting, Digital Display & Roller Control, 5-Level Stand, USB Extender & Phone Holder-for 14”-17” Laptops",2149,4.0,168
+129,,Len-OVO Orignal PA-1650-74 PN: GX20K78585 65W Laptop Adapter/Charger Select Models of (Round pin),1249,,
+130,,"Dell 15 Intel Core i5 13th Gen - 1334U, 16GB DDR4 RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'21, Grey, 1.66kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",55990,3.6,441
+131,,"HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",64990,3.9,1700
+132,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+133,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD Storage; Space Black",202990,5.0,1
+134,,"QUARANT Screen Cleaning Kit for Laptop, TV, Tablet, Mobile, Display, Glass & Lens, 100 ml Screen Cleaner Liquid Spray Bottle with 70% Isopropyl Alcohol & 300 GSM Dual Sided 40x40 cm Microfiber Cloth",219,4.8,9
+135,,DailyObjects Large Stria Portable Laptop Sleeve | Durable Polyester |Compatible with Laptop/MacBook Air/Pro Upto 15 Inch |Lightweight Water Resistant Fabric |Padded Compartment with Zip Closure- Grey,1599,4.5,457
+136,,"Tizum Mouse Pad Computer Mouse Mat with Anti-Slip Rubber Base & Smooth Mouse Control with Spill-Resistant Surface for Laptop, Notebook, MacBook Pro, Gaming Computer (9.4*7.9 Inches), Beta (Multicolor)",89,4.3,7500
+137,,"Chuwi FreeBook 13.5 Inch 2 in 1 Touchscreen Laptop,Flipped 360 Degree, Windows 11,Intel Core i3-1215U 12th gen, 46.2Wh, 12 GB RAM LPDDR4 512 GB SSD Expandable Upto 1 TB, Backlit Keyboard",37990,3.8,104
+138,,"Amazon Basics Laptop Bag Sleeve Case Cover Pouch for Men & Women | 14.1 Inch Laptop/MacBook, Office/College Laptop Bag | Side Handle | Multiple Pockets | Water Repellent | Shock Absorber (Black)",299,4.1,479
+139,,Prime Laptop Bags for Men Office Use | Upto 15.6 inch | Expandable Bottom | Mobile & Pen Compartment with Multiple Organizers | PU Leather | Professional Office Bag for Man & Women - Tan,1579,4.3,1200
+140,,"Dyazo 14-14.1 Inch Laptop Sleeve Case with Handle & Front Pocket | Water Resistant & Shockproof Notebook Bag | Compatible for Compatible for MacBook, Lenovo, Dell, HP, Acer and Asus (Black & Orange)",399,5.0,5
+141,,"HP 14 (2025), Intel Core 5 14th Gen 120U - (32 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0"" FHD Display/Ash Grey/1.4 kg/MS Office 2021",53990,5.0,1
+142,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+143,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Silver",164490,5.0,1
+144,,"Scotch-Brite Microfiber Polishing Wipe (Pack of 1 Grey) (Used for cleaning TV, Mobile, Laptop, Tablet screens & Spectacles).",179,4.2,3400
+145,,"PLIXIO Adjustable Laptop Stand with 360° Rotating Base Tabletop Ergonomic Foldable Portable Holder Compatible for MacBook, HP, Dell, Lenovo & All Other Notebook (Sliver)",2249,4.3,1100
+146,,"Dell MS116 Wired Optical Mouse - High Precision 1000DPI Sensor, USB Connectivity, Ergonomic Ambidextrous Design, Smooth Scrolling, Ideal for Office & Home Use - Black",309,4.4,45800
+147,,"GIZGA essentials Laptop Bag Sleeve Case Cover Pouch for 15.6 Inch Laptop/MacBook, Office/College Laptop Bag for Men & Women, Side Handle, Multiple Pockets, Water Repellent, Shock Absorber, Grey",289,4.3,7000
+148,,"amazon basics 360° Rotating Metal Laptop Stand (Black)| Adjustable Height & Angle | Foldable, Sturdy Carbon Steel | Enhanced Airflow | Supports up to 10kg | Compatible with Laptops & MacBook",869,4.2,171
+149,,"Tukzer Universal Silicone 15.6” Laptop Keyguard Keyboard Protector, Keyboard Dust Cover, Keyboard Skin 15.6” keyguard (36.5 x 13.5 cm)",139,3.4,889
+150,,"Craloft 14 Inch Laptop Sleeve Cover Bag with Charger Pouch – Water-Resistant Case for MacBook, Dell, HP, Lenovo – Ideal for Office & Travel Use",469,4.4,767
+151,,"Wembley Educational Kids Laptop Learning Toy for 2-5 Years Boys Girls Computer Toys for 3 Years Fun Activity Learning Alphabet,Letter,Words,Games,Mathematics,Music,Logic Memory Tool - Blue",699,3.9,2400
+152,,"Dell 15 Intel Core i5 13th Gen - 1334U, 16GB DDR4 RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'21, Grey, 1.66kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",55990,3.6,441
+153,,"HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",64990,3.9,1700
+154,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+155,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Silver",164490,5.0,1
+156,,"Wembley Educational Kids Laptop Learning Toy for 2-5 Years Boys Girls Computer Toys for 3 Years Fun Activity Learning Alphabet,Letter,Words,Games,Mathematics,Music,Logic Memory Tool - Blue",699,3.9,2400
+157,,"Born Good 3-in-1 Plant-Based Electronics & Gadget Disinfectant Cleaner Kit for Laptop, Smartphone, Monitor, Tablet, Camera, TVs with 1 Microfiber Cloths & Soft Brush",199,4.2,806
+158,,Tukzer Professional 8in1 Cleaning Kit for Laptop Tablet Smartphone Camera Airpod (100mlCleaning Solution AirBlower CottonSwabs Suede Plush Microfiber Cloth Antistatic Cleaning Bristle Universal Brush),339,4.3,1700
+159,,"STRIFF Professional 3-in-1 Laptop Cleaning kit, Laptop Cleaner, Screen Cleaner, Mobile Cleaning kit, Cleaning Kit for Camera, Lens, Binocular, Laptop, TV, Monitor, Smartphone, Tablet",129,3.8,505
+160,,"Brand Conquer 7 in 1 Multi-Function Laptop Cleaning Brush/Keyboard Cleaning kit/Gadget Cleaning kit Gap Duster Key-Cap Puller for Laptop,Monitor,Keyboard and Earphones with Spray Bottle (Blue)",228,4.4,352
+161,,"Dyazo 15-15.6 Inch Laptop Sleeve Case | Water Resistant Cover with Charger Pouch & Three Front Pockets | Compatible for Dell, HP, MacBook, Lenovo, Acer, Asus & All Other Notebooks (Black)",449,4.5,421
+162,,HP F6V97AA#ACJ External USB DVD-RW Drive,2799,4.3,12400
+163,,"STRIFF Webcam Cover Slide, Ultra Thin Laptop Camera Cover Slide Blocker for Computer MacBook Pro iMac PC Tablet (Pack of 3), Black",99,4.2,3800
+164,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD Storage; Space Black",202990,5.0,1
+165,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+166,,ZEBRONICS ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key,249,3.7,43800
+167,,"Microsoft New Surface Pro 12"" - Windows 11 Home Copilot+ PC - LCD PixelSense Touchscreen - Qualcomm Snapdragon X Plus (8 Core) - 16GB RAM - 256GB SSD - Platinum - EP2-27654",88990,3.0,4
+168,,"Lenovo {Smartchoice} Idea Tab Pro with Pen Plus|12.7"" 3K Display|144 Hz Refresh|12 GB RAM, 256 GB ROM| AI-Enabled| MediaTek Dimensity 8300|Quad JBL Speakers|10200 mAh Battery with 45 W Charger|WiFi 6e",31999,4.3,878
+169,,"MiniExplorer Educational Computer Laptop Toy for Kids with Mouse |Toys for 2 - 5 Years Old Boys Girls| Learning Activity Alphabet, Letter, Words, Games & Music, Mathematics Logical Memory Tool - Blue",790,3.9,470
+170,,"Ant Esports NC160 Laptop Cooling Pad, Laptop Cooler with Mobile Holder 2 * 1 125mm Quite Fans at 1000 RPM Fan Speed Controller 5 Height Adjustable Angle 2USB Ports Compatible for Laptop up to 15.6”",549,3.9,221
+171,,"Ant Esports Lapi MousePad 260X210X3mm Anti-fray Stitching, Universal Shortcut Sheet Waterproof Surface & Non-Slip Rubber Base Stitched Edges Mouse Mat for Laptop,Compatible with Laser and Optical Mice",99,4.5,125
+172,,"AirCase 13.3 Inch Laptop Sleeve Case Cover with Shockproof Foam Padding| Slim & Water-Resistant PU Leather with Front Pocket, Luggage Belt & Premium Zipper Closure for Office, College & Travel",1299,5.0,22
+173,,"Laptop Stand for Desk with 7 Adjustable Angles, Aluminum Ergonomic Foldable Portable Compatible with All Brands 6-17.3 [with Pouch] [with Wire Protectors] (Metallic Grey)",698,4.3,1200
+174,,"Dell 15 Intel Core i5 13th Gen - 1334U, 16GB DDR4 RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'21, Grey, 1.66kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",55990,3.6,441
+175,,"Primebook 2 Pro 2025 (New Launch) | 8GB RAM, 128GB UFS Storage | 14.1-Inch FHD IPS Display | 14 Hours Battery | MediaTek Helio G99 | Android 15 (PrimeOS 3.0) | Backlit Keyboard | in-Built AI (Gray)",18890,4.5,127
+176,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+177,,"Apple 2025 MacBook Air (15-inch, Apple M4 chip with 10-core CPU and 10-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",119490,4.6,74
+178,,Lapcare Laptop Battery for HP HS03/HS04/HSTNN-LB6U/HSTNN-LB6V (Black),1424,4.0,86
+179,,"Gizga Essentials 14.1 Inch Laptop Sleeve Case Cover Bag with Extra Pouch, Front Pocket & Handle| Slim & Water-Resistant Nylon Fabric with Shockproof Foam Padding, Soft Lining & Premium Zipper (Grey)",280,4.2,1500
+180,,"Dyazo Laptop Sleeve 15.6 inches, Durable Shockproof Neoprene Case Cover Carrying Bag Case with Pockets Compatible for HP/Crome Book/ASUS & Other Laptops, Notebook, Black (ONE Pocket 15.6 Black)",379,4.0,2500
+181,,"HP 15 5 Quad Core - 6 GB/256 GB SSD /15.6"" Black",37990,5.0,1
+182,,65W 45W USB C Len-OVO Original ThinkPad Laptop Charger for T14 T15 T16 gen 1 gen 2 X1 Yoga L13 7i C740 Computer AC Power Adapter for ThinkPad T480 T490 P52s Chromebook 2nd Gen(with Powe Cable),1289,,
+183,,"PLIXIO Adjustable Laptop Stand with 360° Rotating Base Tabletop Ergonomic Foldable Portable Holder Compatible for MacBook, HP, Dell, Lenovo & All Other Notebook (Sliver) (A06)",3959,4.4,693
+184,,Tabelito Laptop Sleeve Bag 15.6 inch for Women | laptops Sleeves 15.6 inches Jute and Vegan Leather,499,4.4,483
+185,,"65W Laptop Charger for HP Pavilion x360 14 15 17, HP Envy 13 15 X360, HP Elitebook 840 G5, HP ProBook HP Chromebook HP Stream Series, HP Spectre 710412-001 19.5V 3.33A HP Adapter",949,3.8,165
+186,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+187,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD Storage; Space Black",202990,5.0,1
+188,,"HUMBLE Microfiber Cleaning Cloth for Laptop Screens, Monitors, Keyboards, Phones, Cameras, Tablets, Sunglasses & More – Soft, Lint-Free, Reusable Wipes - Random Colors (Pack of 10)",199,4.2,232
+189,,"Amazon Basics Laptop Sleeve Case Cover Pouch for 14-Inch, 14.1-Inch Laptop (Black)",409,4.4,1800
+190,,"smashtronics Premium Metal Laptop Stand - Foldable, Height Adjustable Aluminum Stand (Kickstand Black)",299,4.2,5200
+191,,"Replacement HP 65W USB C Laptop Charger AC Adapter Replacement for HP Spectre X360,Spectre,Elitebook x360,Elitebook,Envy,Chromebook,Elite x2,ProBook Travel Type C (Fit with Power Cable)",1139,3.8,21
+192,,"ZORBES® Portable Invisible Laptop Riser Stand, 2 Mini Self-Adhesive Alloy Metal Folding Desk Stand, Lightweight Laptop Desk Feet for MacBook, Lenovo, HP, Dell, Laptops & Tablets, 2pc (Black)",377,4.2,60
+193,,"DYAZO 13"" to 13.3 inch Laptop Sleeve/Cover/Case with Handle & Two Accessories Compatible for Apple, Dell, Lenovo, ASUS, Hp, Samsung, Mi, MacBook and All Other Notebooks (Grey)",299,4.3,1700
+194,,Storite 1.5M Black 3 Pin Laptop Power Cable 18AWG Universal Replacement for Charger Adapter Power Cord for Laptop,299,4.1,468
+195,,"HUION HS64 Graphics Drawing Tablet Battery-Free Stylus Android Windows macOS with 6.3 x 4 inch Working Area Pen Tablet for Linux, Mac, Windows PC and Android (HS64, 6.3 x 4 inch), Black",2176,4.2,4700
+196,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Silver",164490,5.0,1
+197,,"Dell 15 Intel Core i5 13th Gen - 1334U, 16GB DDR4 RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'21, Grey, 1.66kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",55990,3.6,441
+198,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Midnight",94990,4.6,783
+199,,"Dell 15, AMD Ryzen 3 7320U Processor (8GB RAM / 512GB SSD/Windows 11 + Office H&S 2024 + M365 / 15.6""(39.62 Cm) FHD Display / 12 Month Mcafee/Carbon Black Color/ 1.63 Kg Thin & Light Laptop",28990,4.0,117
+200,,"CLAW Lift Pro X11 Laptop Stand with 360° Rotating Base, Multi-Angle Adjustment, Heavy-Duty Steel Frame, Anti-Slip Silicone Pads, Foldable Design, Supports Up to 17-Inch Laptops & 8KG Load – Black",890,4.6,18
+201,,OneAssist 2 Years Total Protection Plan for Laptop Between INR 30001-40000 (E-Mail Delivery Only),1799,3.5,187
+202,,"FEDUS 1.8 Meter (5.9 Feet) Long Laptop Power Cord with Protection Fuse, 2500 Watt 3 Pin IEC C5 Charger Adapter Cable Wire AC Lead for Asus/Dell/HP/Lenovo/ASUS/Acer/Samsung/Compaq & All Gaming Laptop",469,4.4,259
+203,,"External CD/DVD Drive for Laptop, USB 3.0 CD Burner +/-RW CD ROM External DVD Drive Portable DVD Player for Laptop Desktop PC Apple Mac Windows 11/10/8/7/XP Linux OS",865,4.2,5000
+204,,STRIFF World Map Extended Size (800 mm x 300 mm x 2 mm) Gaming Mouse Pad| Desk Mat | Stitched Edges| Non-Slip Rubber Base|Computer Laptop|Keyboard Mouse Pad for Office & Home (World Map),229,4.4,22300
+205,,Tabelito® Hybrid Polyester Laptop Bag Sleeve Case Cover Pouch for 14 inches 35cm Laptops Surfacepro for Men & Women/Waterproof (Grey),299,4.1,4000
+206,,"Klenzmo by Kleenest Screen & Camera Lens Cleaner Spray with Microfiber Cloth | Cleans Laptop, TV, Mobile, Display & Camera Lenses | 250 ml",398,4.3,1400
+207,,"Premium Metal Laptop Stand Foldable, Aluminum Note Book Stand Portable Any Laptop Stand Adjustable Height/OverHeating Protection Laptops/MacBooks/Table and Many More (Metallic Silver, MLS001)",284,4.0,12
+208,,ULTIMUS APEX Laptop Intel Celeron Dual Core 8 GB LPDDR4 512 GB SSD Expandable~1TB 14.1 FHD IPS Laptop Anti-Glare Ultra Thin Bezel 180° Hinge 3.0x3 USB HDMI SD Card Slot Win 11 Home 1.25KG Silver,17990,3.6,93
+209,,"Lenovo IdeaPad Slim 5 Intel Core Ultra 7 155H Built-in AI 16"" (40.64cm) WUXGA-IPS 300Nits Thin & Light Laptop (16GB/1TB SSD/Win 11/100% sRGB/MSO/1Yr ADP Free/3 Month Game Pass/Grey/1.8Kg), 83DC008VIN",86990,3.8,12
+210,,"MOCA Waterproof Nylon Exterior with Soft Velvety Interior Sleeve Bag Pouch Carry Case for 13.3""(33.7cm) 13""(33.7cm) Laptops, MacBook (Black) (F4646)",989,4.3,5100
+211,,"RAEGR RapidCool 900 Aluminium Laptop Cooling Pad | Two USB Port| with Multi-Angle Adjustment & Adjustable wind speed, Metal Support | Foldable Anti-Skid Baffle | Compatible with Laptops Upto 17-inches",1399,3.8,504
+212,,"Asus Original Ad45-00B 45W Laptop Charger/Adapter for Select Models for Asus-20 V,2.5 A,4 Mm X 1.2Mm Diam-Black",1399,,
+213,,Lenovo Original GX21M75594 45W Laptop Adapter/Charger with Power Cord for Select Models of Lenovo (Round pin),1088,4.2,914
+214,,"Gizga Essentials 15.6 Inch Laptop Sleeve Case Cover Pouch Bag with Handle & Front Pocket| Slim & Water-Resistant Nylon Fabric with Shockproof Foam Padding, Soft Lining & Premium Zipper Closure (Black)",289,4.0,6700
+215,,amazon basics Vertical Laptop Stand | Space-Saving Design | Scratch-Resistant | Fits All Laptops Up to 17.3 inches (43.94cm),799,4.3,111
+216,,"HP 150 Wired Mouse- Elegant Ergonomic Design, 1600 DPI Optical Tracking, USB Plug & Play / 3 Years Warranty (240J6AA), Black",399,4.2,1400
+217,,"Logitech B170 Wireless Mouse with USB Receiver,(Black)",599,4.3,78000
+218,,"Chuwi CoreBook X Laptop 14'' Intel Core i3-10100Y, 8GB RAM 256GB SSD, Windows 11 Laptop, 1920x1200 FHD Display, Up to 3.9GHz | WiFi | Webcam | BT4.2 | 38Wh Battery | Iron Gray",19990,3.5,211
+219,,"Lenovo LOQ, AMD Ryzen 5 7235HS, NVIDIA RTX 3050A 4GB, 12GB RAM, 512GB SSD, 15.6""(39.6cm), 144Hz, Windows 11, Office Home 2024, Grey, 2.4Kg, 83JC00HNIN, 3 Mon. Game Pass Gaming Laptop",63990,4.2,98
+220,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Silver",94990,4.6,783
+221,,"HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",64990,3.9,1700
+222,,"Gizga Essentials 15.6 Inch Laptop Sleeve Case Cover Bag with Extra Pouch & Front Pocket | Slim & Water-Resistant Nylon Fabric with Shockproof Foam Padding, Soft Lining & Premium Zipper Closure (Grey)",349,4.2,3500
+223,,"ZORBES® SSD Pouch for Laptop, 3M Adhesive Pendrive Holder Case & Hard Disk Cover Organizer, Double Layer Stretchy Lycra Pockets (13x8.4cm)",950,4.0,5
+224,,Toyshine Educational Kids Laptop with 20 Activities Alphabet|Letter|Words|Games|Mathematics Music|Logic Memory Tool Fun Learning Educational Kids Laptop Educational Toy Boys Girls 5+,709,3.5,58
+225,,"Gizga Essentials 14.1 Inch Laptop Sleeve Case Cover Pouch Bag with Front Pocket| Slim & Water-Resistant Nylon Fabric with Shockproof Foam Padding, Soft Lining & Premium Zipper Closure (Black)",279,4.3,6200
+226,,"NISHTECH 3 Pin Laptop Power Cable Universal Replacement for Laptop Charger Adapter Power Cord for Laptop - (1.5M, Black)",147,3.8,288
+227,,"Full Laptop Skin Stickers HD Quality Sticker for Laptops Upto 15.6"" (Dustproof|Waterproof|Scratchproof|Reusable) - BE GRAF BLDNG FL",248,4.0,275
+228,,"Alifiya Polyester MacBook Laptop Sleeve Cover Bag 16 Inch with Charger Pouch (Black_L22, 180 Degree Opening)",329,4.3,555
+229,,"SWAPKART Portable Flexible Adjustable Eye Protection USB LED Desk Light Table Lamp for Reading, Working on PC, Laptop, Power Bank, Bedroom (Multicolour, Plastic, Pack of 1)",299,3.7,2300
+230,,"Primebook 2 Pro 2025 (New Launch) | 8GB RAM, 128GB UFS Storage | 14.1-Inch FHD IPS Display | 14 Hours Battery | MediaTek Helio G99 | Android 15 (PrimeOS 3.0) | Backlit Keyboard | in-Built AI (Gray)",18890,4.5,127
+231,,"ULTIMUS Pro Intel Celeron Dual Core Laptop 4GB RAM, 128GB M.2 Emmc Expandable~512GB Intel HD Graphics 2.0x1 3.0x1 USB HDMI Sd Card Slot ‎LPDDR4 Dual Speaker Dual Microphone Win 11 Home Gray, 1.2 kg",11990,3.4,87
+232,,ZORBES® Mini Laptop Riser Stand 2pc Self-Adhesive Mini Laptop Stand Portable Invisible Lightweight Cooling Pad Keyboard Kickstand Compatible with MacBook Lenovo Dell All Laptops,284,4.8,6
+233,,"Dyazo Fluffy Laptop Sleeve Bag 15.6 Inch |Soft Protective Case Cover with Handle & Front Pocket | Puff Sleeve Bag Compatible for MacBook, Lenovo, HP, Acer, ASUS, Dell & Other Notebooks (Blue)",599,4.3,269
+234,,OneAssist 2 Years Total Protection Plan for Laptop Between INR 40001-50000 (E-Mail Delivery Only),2299,3.6,142
+235,,"Ant Esports Hexa Mouse Pad 260X210X3mm Anti-fray Stitching, Waterproof Surface & Non-Slip Rubber Base Stitched Edges Gaming Mouse Mat for Laptop, Compatible with Laser and Optical Mice – Black Hexagon",89,4.6,240
+236,,"Amkette Ergo Fold X Laptop Stand Metal, 6-Level Adjustable Angles, Supports up to 15.6 inches Laptops, Premium Aluminium Build, Lightweight & Portable, Anti-Slip Silicone Pads, Smart Heat Dissipation",389,4.3,7100
+237,,"MOCA Hard Laptop Sleeve for MacBook 13-13.3 - 13.6-14 inch Laptop Sleeve Bag for MacBook Pro/Air M1 M2, Surface Laptop 3/2, Dell Inspiron 13/XPS 13, Shockproof & Water-Resistant",809,4.4,883
+238,,"65W Blue Pin 4.5MM Replacement Laptop Adapter for HP Pavilion X360 Series, HP EliteBook 840 G3 G4 G5 850 G3 820 19.5V 3.33A Laptop Charger with Power Cord Cable",949,4.7,9
+239,,"AirCase Premium Laptop Bag with 6 Pockets fits Upto 14.1"" Laptop/MacBook, Wrinkle Free, Padded, Water Resistant Light Neoprene case Cover Sleeve Pouch, for Men & Women, Black- 6 Months Warranty",699,4.3,2000
+240,,"Primebook 2 Max 2025 (New Launch) | 8GB RAM, 256GB UFS Storage | 15.6-Inch Full HD IPS Display | 12hrs Battery | MediaTek Helio G99 | Android 15 (PrimeOS 3.0) | Backlit Keyboard | in-Built AI",20990,4.5,248
+241,,"Dell 15DC15250, Intel Core i5 13th Gen - 1334U, 16GB RAM, 1TB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'24, Silver, 1.62kg, Backlit Keyboard, 15 Month McAfee, Thin & Light Laptop",59990,3.9,1100
+242,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Starlight",91900,4.6,783
+243,,"Lenovo IdeaPad Slim 5 Intel Core Ultra 5 125H 16"" (40.6cm) WUXGA-IPS 300Nits Thin & Light Laptop (16GB RAM/1TB SSD/AI PC/Windows 11/Office Home 2024/FHD+IR Camera/1Yr ADP Free/Grey/1.8Kg), 83DC0096IN",72790,3.3,84
+244,,"Intex IT-120 2.0 Channel Desktop Speaker with 10W Powerful Sound, USB Powered, 3.5mm Jack, in-Line Volume Control, Loud & Compact Design, Portable for Laptop, Computer, Mobile – Grey",599,3.7,49
+245,,"Craloft 14 Inch Laptop Sleeve Cover Bag – Water-Resistant Case for MacBook, Dell, HP, Lenovo – Ideal for Office & Travel Use (Grey)",358,4.4,324
+246,,"GadgetBite Felt Matting Laptop Sleeve Case Cover with Hidden Magnet Compatible for MacBook Air & Pro M1/M2, 13 Inches All Laptops, Easy to Carry, Documents Carry, & Prevents Scratches(Grey)",249,4.2,234
+247,,"Ambrane Wireless Mouse with 2.4GHz, USB Nano Dongle, Silent Click, Optical Orientation Click Wheel, 4 Buttons, 1600 Adjustable DPI, Both Hand Use, Compatible with PC, Mac, Laptop (Sliq 3, Black)",299,3.7,80
+248,,"Full Laptop Skin Stickers HD Quality Sticker for Laptops Upto 15.6"" (Dustproof|Waterproof|Scratchproof|Reusable) - BE Think DIF FL",247,4.0,252
+249,,"200W Car Power Inverter/Laptop Charger with 4 USB & 2 C Type(1 * 27WPD) Smart USB Ports, 2 AC Universal Outlets and 12V/24V DC to 220V AC with QC3.0 (4 USB Type A QC3.0 + 2 Type C)",999,3.3,80
+250,,65W Laptop Charger for DELL Latitude E5470 7480 7490 E7250 3300 3380 5280 5480 5490 E5440 E5470 E6540 E7440 E7450 E7250 E6440 E6430 7290 5490 5590 5290 19.5V 3.34A AC Adapter (with Power Cable),1424,4.2,74
+251,,"Lapster Chillpro Ultra Laptop Cooler pad with Dual Cooling Fans, Multi-Level Height Adjustable, Mobile Holder, USB Powered, Metal Mesh Grill, for Upto 15.6 Inch Laptops (Black)",599,4.1,161
+252,,"MSI Raider 18, Intel Series 2 Core Ultra 9 285HX, 46cm UHD+ 120Hz Gaming Laptop (64GB/4TB NVMe SSD/Windows 11 Home/NVIDIA GeForce RTX 5090, GDDR7 24GB/Core Black/3.6Kg) A2XWJG-253IN",490006,2.0,3
+253,,"Lenovo LOQ, AMD Ryzen 7 7435HS, NVIDIA RTX 3050A 4GB, 24GB RAM, 512GB SSD, 15.6""(39.6cm), 144Hz, Windows 11, Office Home 2024, Grey, 2.4Kg, 83JC00GDIN, 3 Mon. Game Pass Gaming Laptop",71290,4.2,98
+254,,FEDUS Polycarbonate Clear Hd Full Screen Protector Guard Scratch Protector for 15.6 Inch Laptop,159,3.5,781
+255,,Finearts Full Body Laptop Skin Upto 15.6 inch Sticker Compatible for Dell/HP/Lenovo/Acer/Sony All Laptop Size Upto 14 to 15.6 Inch - The King of Hell Anime,265,4.0,115
+256,,"24x7 eMall Under Desk Laptop Holder Wall Mount Holder for Laptops, Carbon Steel, Scratch Resistant Strips, Adjustable Mounts Use Slide In And Slide Out Design. Device Thickness Should Not exceed 35mm.",1199,4.6,3
+257,,"Laptop Skin Stickers HD Quality Sticker for Laptops Upto 15.6"" Compatible with Apple/Dell/HP/Lenovo/Acer/Asus/Sony (Dustproof|Waterproof|Scratchproof|Reusable)-Panda ANM",203,4.0,349
+258,,"Zebronics Zeb-Power Wired USB Mouse, 3-Button, 1200 DPI Optical Sensor, Plug & Play, for Windows/Mac",117,3.9,12900
+259,,"ZEBRONICS Igloo 2, 2.0 USB Computer Speakers, 10 Watts, RGB LED, USB Powered, AUX, Volume Control Pod for PC, Laptops, Desktop (Black)",878,4.0,208
+260,,"Portronics Twister Metal Laptop Stand with Rotation Base, Angle & Height Adjustable, Improves Air Flow, Metal Alloy Build, 10 KG Max Weight for Laptops (Grey)",1699,4.1,53
+261,,"Full Laptop Skin Bubble-Free HD Quality Sticker for Laptops Upto 15.6"" Compatible with Apple/Dell/HP/Lenovo/Acer/Asus/Sony (Dustproof|Waterproof|Scratchproof|Reusable)-Space BL FL ANM1",248,3.9,439
+262,,Ultimus APEX Pro Intel Pentium Quad Core Laptop 4GB RAM 128GB eMMC SSD Expandable~512GB Ultra Thin Bezel 180° Hinge 2.0x1 3.0x1 USB HDMI SD Card Slot Dual Speaker Win11 Home Cloud Silver 1.2Kg,11990,2.8,8
+263,,"Lenovo LOQ, AMD Ryzen 5 7235HS, NVIDIA RTX 3050 6GB, 24GB RAM, 512GB SS SSD, 15.6""(39.6cm), Windows 11, Office Home 2024, Grey, 2.4Kg, 83JC00EFIN, 100% sRGB, 3 Mon. Game Pass Gaming Laptop",71990,4.2,99
+264,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Starlight",91900,4.6,783
+265,,"Lenovo IdeaPad Slim 5 Intel Core Ultra 5 125H 16"" (40.6cm) WUXGA-IPS 300Nits Thin & Light Laptop (16GB RAM/1TB SSD/AI PC/Windows 11/Office Home 2024/FHD+IR Camera/1Yr ADP Free/Grey/1.8Kg), 83DC0096IN",72790,3.3,84
+266,,"Microsoft New Surface Pro 12"" - Windows 11 Home Copilot+ PC - LCD PixelSense Touchscreen - Qualcomm Snapdragon X Plus (8 Core) - 16GB RAM - 512GB SSD - Platinum - EP2-27670",97990,2.0,5
+267,,"Gooyo GY2018 Play & Learn Educational Learning Laptop Toy | Alphabets/Counting/Words and More Functions | Blue Color, Power Source: 3xAA Battery (Not Included)",349,3.8,190
+268,,DailyObjects Siesta Sleeve Cover for Laptops/MacBook Air/Pro 13 Inch - 14 Inch | Crafted using soft-touch and water-repellent polyester | Secure clasp Button Closure | Sleek Design and Durable,1099,4.3,34
+269,,HP Envy Urban 14 Inch Sleeve with RFID Blocking Pocket for Notebooks,1684,4.5,382
+270,,"Maxelon Power Cable & Dell Laptop Adapter Charger 65w 19.5V 3.34A (New Pin 4.5 * 3.0mm) MGJN9 for Inspiron 11 3147, 3148, 3152, i3152, 3153, 3157, 3158, 316- Black",1424,4.2,214
+271,,"Gizga Essentials 14.1 Inch Laptop Sleeve Case Cover Pouch Bag with Handle & Front Pocket| Slim & Water-Resistant Nylon Fabric with Shockproof Foam Padding, Soft Lining & Premium Zipper Closure (Black)",279,4.2,339
+272,,Design 10 Full Body Vinyl Laptop Skin/Sticker/Cover Upto 15.6 Inches Laptops Laminated-Removable-HD Quality Compatible for Hp-Dell-Sony-Lenovo-Asus etc.(15x10 Inches),279,3.3,65
+273,,"MOCA Laptop Case 13 inch, 13 inch Laptop Sleeve Compatible with MacBook Air M3 M2 M1 2025-2018 / Pro M2 M1 2025-2016, Polyester Vertical Computer Sleeve Bag with Pocket",749,4.3,2100
+274,,"MSI Raider 18, Intel Series 2 Core Ultra 9 285HX, 46cm UHD+ 120Hz Gaming Laptop (64GB/4TB NVMe SSD/Windows 11 Home/NVIDIA GeForce RTX 5090, GDDR7 24GB/Core Black/3.6Kg) A2XWJG-253IN",490006,2.0,3
+275,,"Lenovo LOQ, AMD Ryzen 7 7435HS, NVIDIA RTX 3050A 4GB, 24GB RAM, 512GB SSD, 15.6""(39.6cm), 144Hz, Windows 11, Office Home 2024, Grey, 2.4Kg, 83JC00GDIN, 3 Mon. Game Pass Gaming Laptop",71290,4.2,98
+276,,"DailyObjects Morph Foldable Desk Mat with Laptop Stand | Large Premium Vegan Leather | Work from Home Solution for Laptop Keyboard and Mouse| Anti-Skid| Anti-Slip| Water Resistant, Scratch Resistant",1999,4.4,2800
+277,,"Lenovo 2years Extended Warranty with Onsite Service (for Entry Laptops) - Email Delivery, No Physical Kit",3855,4.0,111
+278,,"Saco Laptop Keyboard Protector Cover Compatible for 2025-2022 HP Victus 15-FA and 15-FB Series [15.6 inch] | HP Victus 16-D, 16-E, 16-S [16.1 inch] Gaming Laptop - Clear, Silicone",245,4.2,576
+279,,"FRONTECH 360° Rotating Laptop Stand, Step-Less Adjustable Height, Carbon Steel + ABS Build, Fits Up to 17"", Portable & Durable - Black, (CP-0011)",839,,
+280,,HP M190 Wireless Mouse (AB3C6AA),449,3.6,3700
+281,,"Maxelon Power Cable & HP Orignal 65W USB C Laptop Charger AC Adapter Replacement for HP Spectre X360,Spectre,Elitebook x360,Elitebook,Envy,Chromebook,Elite x2,ProBook Travel Type C",1999,4.1,77
+282,,"Asus Ad45-00B 45W Replacement Laptop Adapter/Charger for Select Models of Asus - 20 V, 2.5 A, 4 Mm X 1.2Mm Diameter",1289,4.1,20
+283,,"Laptop Skin Stickers Bubble-Free HD Quality Sticker for Laptops Upto 15.6"" Compatible with Apple/Dell/HP/Lenovo/Acer/Asus/Sony (Dustproof|Waterproof|Scratchproof|Reusable) - Think DIF1",203,4.0,162
+284,,Ultimus APEX Pro Intel Pentium Quad Core Laptop 4GB RAM 128GB eMMC SSD Expandable~512GB Ultra Thin Bezel 180° Hinge 2.0x1 3.0x1 USB HDMI SD Card Slot Dual Speaker Win11 Home Cloud Silver 1.2Kg,11990,2.8,8
+285,,"Lenovo LOQ, AMD Ryzen 5 7235HS, NVIDIA RTX 3050 6GB, 24GB RAM, 512GB SS SSD, 15.6""(39.6cm), Windows 11, Office Home 2024, Grey, 2.4Kg, 83JC00EFIN, 100% sRGB, 3 Mon. Game Pass Gaming Laptop",71990,4.2,99
+286,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",91900,4.6,783
+287,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Silver",164490,5.0,1
+288,,"Asus Ad45-00B 45W Replacement Laptop Adapter/Charger for Select Models of Asus - 20 V, 2.5 A, 4 Mm X 1.2Mm Diameter",1289,4.1,20
+289,,"PLIXIO Dual Vertical Laptop Stand – Adjustable Dock Holder for 2 Devices (Up to 17.3"") | Aluminum Desktop Organizer for MacBook, Dell, HP, Surface, Chromebook, Samsung – Silver",1485,4.1,6
+290,,"Saco Laptop Keyboard Protector Cover Compatible for 2025-2022 HP Victus 15-FA and 15-FB Series [15.6 inch] | HP Victus 16-D, 16-E, 16-S [16.1 inch] Gaming Laptop - Clear, Silicone",245,4.2,576
+291,,"Lenovo 2years Extended Warranty with Onsite Service (for Entry Laptops) - Email Delivery, No Physical Kit",3855,4.0,111
+292,,"Full Laptop Skin Stickers HD Quality Sticker for Laptops Upto 15.6"" Compatible with Apple/Dell/HP/Lenovo/Acer/Asus/Sony (Dustproof|Waterproof|Scratchproof|Reusable) - Iron Man FL EDS1",248,4.2,331
+293,,"Gizga Essentials Laptop Bag Sleeve Case Cover Pouch for 15.6 Inch Laptop/MacBook, Office/College Laptop Bag for Men & Women, Side Handle, Multiple Pockets, Water Repellent, Shock Absorber-Blue",289,4.5,6
+294,,"Laptop Skin Stickers Bubble-Free HD Quality Sticker for Laptops Upto 15.6"" Compatible with Apple/Dell/HP/Lenovo/Acer/Asus/Sony (Dustproof|Waterproof|Scratchproof|Reusable) - Think DIF1",203,4.0,162
+295,,HP Envy Urban 14 Inch Sleeve with RFID Blocking Pocket for Notebooks,1684,4.5,382
+296,,"Apple 2025 MacBook Air (15-inch, Apple M4 chip with 10-core CPU and 10-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",119490,4.6,74
+297,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD Storage; Space Black",202990,5.0,1
+298,,"Craloft 15–15.6 Inch Laptop Sleeve Cover Bag with Charger Pouch – Slim, Water-Resistant & Protective Case for MacBook, Dell, HP, Lenovo – Ideal for Office & Travel Use (Grey_L25)",564,4.4,268
+299,,"Craloft Portable 16 inch Laptop Sleeve Cover Bag with Handle - Durable Water-Resistant Polyester Padded Case Compatible with MacBook Air M4, MacBook Pro, Dell, HP, Lenovo - Office & Travel use",645,4.4,116
+300,,OneAssist 2 Years Total Protection Plan for Laptop Between INR 50001-60000 (E-Mail Delivery Only),3299,3.7,82
+301,,"Maxelon Power Cable & HP Orignal 65W USB C Laptop Charger AC Adapter Replacement for HP Spectre X360,Spectre,Elitebook x360,Elitebook,Envy,Chromebook,Elite x2,ProBook Travel Type C",1999,4.1,77
+302,,"Acko 2 Year Extended Warranty Plan for Laptop Between INR 60,001-100,000 (Email delivery)",4599,3.2,54
+303,,"Full Laptop Skin Bubble-Free HD Quality Sticker for Laptops Upto 15.6"" Compatible with Apple/Dell/HP/Lenovo/Acer/Asus/Sony (Dustproof|Waterproof|Scratchproof|Reusable) - Think DIF FL3",248,3.3,171
+304,,"Microsoft New Surface Pro 12"" - Windows 11 Home Copilot+ PC - LCD PixelSense Touchscreen - Qualcomm Snapdragon X Plus (8 Core) - 16GB RAM - 512GB SSD - Platinum - EP2-27670",97990,2.0,5
+305,,OneAssist 2 Years Total Protection Plan for Laptop Between INR 60001-70000 (E-Mail Delivery Only),3299,3.4,103
+306,,ULTIMUS APEX Laptop Intel Celeron Dual Core 8 GB LPDDR4 512 GB SSD Expandable~1TB 14.1 FHD IPS Laptop Anti-Glare Ultra Thin Bezel 180° Hinge 3.0x3 USB HDMI SD Card Slot Win 11 Home 1.25KG Silver,17990,3.6,93
+307,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+308,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Starlight",91900,4.6,783
+309,,"Lenovo IdeaPad Slim 5 Intel Core Ultra 7 155H Built-in AI 16"" (40.64cm) WUXGA-IPS 300Nits Thin & Light Laptop (16GB/1TB SSD/Win 11/100% sRGB/MSO/1Yr ADP Free/3 Month Game Pass/Grey/1.8Kg), 83DC008VIN",86990,3.8,12
+310,,"Polyester Travel Organizer Gadget Case | Electronic Accessories Storage Pouch for Power Adapters, Hard Disk, Power Bank, Cables, Dongle, Pen Drives, Laptop Charger Pouch (QP2) (Blue)",299,4.4,119
+311,,"FRONTECH 2.0 USB Computer Speakers, 10W, RGB Lights, AUX & USB Powered with Volume Control, Compatible with Laptop, PC & Mobile (SPK-0004)",459,4.1,34
+312,,ZORBES® Waterpoof Laptop Bag 14.1 inches Travel Cute Puffy Soft Laptop Bag Plush Soft Lining Anti-Scratch,947,3.8,29
+313,,"Len-OVO 65W Orignal Adapter Charger for Lenovo PA-1650-74 PN: GX21J75537 65W Round Tip/Pin AC (with Power Cable), Black",2089,,
+314,,"Zebronics 200HB USB 3.0 4 Port hub with Hi Speed Data Transfer, Aluminum + ABS Body, 15cm Cable, Sleek Design and Plug Play Usage",269,4.2,3500
+315,,ZORBES® Laptop Stand for for 17.3in Vertical MacBook Pro Stand MacBook Stand Desktop Organizer Dual Slot Vertical Laptop Stand MacBook/Chromebook/Surface/Dell/Pad,932,4.4,186
+316,,"Amazon Basics 4-in-1 Hub Multiport Adapter, USB Hub with Aluminium Shell, 1 x USB 3.0 & 3 x USB 2.0 for PC, MacBook, Mac mini, iMac, Tablet, and Mobile Phones",199,4.1,763
+317,,Saco Silicone Skin Laptop Keyboard Protector Cover Compatible for HP 15s gr Series 15s-gr0009au | 15s-gr0010au | 15s-gr0011au 15.6 Inch Laptop - Transparent,299,4.2,753
+318,,"Chuwi CoreBook X Laptop 14'' Intel Core i3-10100Y, 8GB RAM 256GB SSD, Windows 11 Laptop, 1920x1200 FHD Display, Up to 3.9GHz | WiFi | Webcam | BT4.2 | 38Wh Battery | Iron Gray",19990,3.5,211
+319,,"Dell 15, AMD Ryzen 3 7320U Processor (8GB RAM / 512GB SSD/Windows 11 + Office H&S 2024 + M365 / 15.6""(39.62 Cm) FHD Display / 12 Month Mcafee/Carbon Black Color/ 1.63 Kg Thin & Light Laptop",28990,4.0,117
+320,,"Laptop Skin Stickers HD Quality Sticker for Laptops Upto 15.6"" Compatible with Apple/Dell/HP/Lenovo/Acer/Asus/Sony (Dustproof|Waterproof|Scratchproof|Reusable)-Dreams ANM1",203,3.9,41
+321,,"ZEBRONICS 180HB USB HUB, 3 Ports, USB 3.0, Transfer Speeds Upto 5 Gbps, Lightweight Design, Multi OS Compatible, Plug and Play",169,4.2,1700
+322,,"SPIN CART Gaming Mouse pad, Long XXL Extended Desk Table Mat Mousepad for Laptop PC Computer (Black)",329,4.4,886
+323,,DailyObjects Siesta Sleeve Cover for Laptops/MacBook Air/Pro 15 Inch - 16 Inch | Crafted using soft-touch and water-repellent polyester | Secure clasp Button Closure | Sleek Design and Durable,1299,4.4,16
+324,,"Portronics Toad 8 Transparent Wireless Bluetooth Mouse with Dual Wireless (BT + 2.4 GHz), Rechargeable Battery, Noise-Free Clicking, Show/Hide Desktop, Multi-Device Pair, Adjust Sensitivity (Grey)",599,4.4,923
+325,,"Tobo USB C To 4.5Mm Laptop Charging Adapter Female Type C To Male DC 4.5 X 3.0Mm Barrel Jack Plug 100W PD Power Charger Connector Round Tip Dll TD-1266CC, Grey",474,3.4,153
+326,,"Lenovo 150 Wireless Compact Mouse, 1K DPI Optical sensor, 2.4GHz Wireless NanoUSB, 10m range, 3button(left,right,scroll) upto 3M left/right clicks, 10month battery, Ambidextrous, Ergonomic, GY51L52638",650,4.2,678
+327,,OneAssist 1 Year Total Protection Plan for Accidental and Liquid Damage of Laptop Between INR 50001-60000 (E-Mail Delivery Only),1999,4.2,12
+328,,Ultimus APEX Pro Intel Pentium Quad Core Laptop 4GB RAM 128GB eMMC SSD Expandable~512GB Ultra Thin Bezel 180° Hinge 2.0x1 3.0x1 USB HDMI SD Card Slot Dual Speaker Win11 Home Cloud Silver 1.2Kg,11990,2.8,8
+329,,"Lenovo IdeaPad Slim 5 Intel Core Ultra 5 125H 16"" (40.6cm) WUXGA-IPS 300Nits Thin & Light Laptop (16GB RAM/1TB SSD/AI PC/Windows 11/Office Home 2024/FHD+IR Camera/1Yr ADP Free/Grey/1.8Kg), 83DC0096IN",72790,3.3,84
+330,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Starlight",91900,4.6,783
+331,,"Lenovo IdeaPad Slim 5 Intel Core Ultra 7 155H Built-in AI 16"" (40.64cm) WUXGA-IPS 300Nits Thin & Light Laptop (16GB/1TB SSD/Win 11/100% sRGB/MSO/1Yr ADP Free/3 Month Game Pass/Grey/1.8Kg), 83DC008VIN",86990,3.8,12
+332,,Dell Inspiron 15 (5568/5567) 13 (5368/5378) 7368 42Whr 3Cell Battery (FW8KR),2575,4.0,1600
+333,,"Full Laptop Skin Stickers HD Quality Sticker for Laptops Upto 15.6"" (Dustproof|Waterproof|Scratchproof|Reusable) - BE Lancer FL",248,3.9,189
+334,,ASUS U65W-01 Mini Mulit-Tips Adaptor/Charger Pin with Plug Dimension 4.0mm*1/4.5mm*1/5.5mm*1 - Black,2099,4.3,490
+335,,"Amkette New and Improved Optimus BT 4 in 1 Multi Device Wireless Keyboard/Bluetooth Keyboard | One Click Device Switching and AI Access for Windows, MacOs, Android and iOS, Dual OS Layout (Blue)",879,3.9,1300
+336,,"eMeet 1080P Webcam-USB Webcam With Microphone & Physical Privacy Cover,Noise-Canceling Mic,Auto Light Correction,C950 Ultra Compact FHD Web Cam W/ 70°View For Meeting/Online Classes/Zoom/Youtube,Black",1890,4.0,5600
+337,,"Mini Laptop Stand for Desk Holder Computer Portable Foldable Adjustable Notebook Stands, Aluminium Metal MacBook Stand, Compatible with 10-15.6 Inch Laptops, iPad-Silver (Pack of 2)",249,4.4,7
+338,,"65W Laptop Charger for H P Pavilion x360 14 15 17, H P Envy 13 15 X360, H P Elitebook 840 G5, H P ProBook H P Chromebook H P Stream Series, H P Spectre 710412-001 19.5V 3.33A H P Adapter",896,3.6,34
+339,,"ZEBRONICS ZEB-USB150WF1 WiFi USB Mini Adapter Supports 150 Mbps Wireless Data, Comes with Advanced Security WPA/WPA2 encryption Standards",249,3.7,8200
+340,,"Chuwi CoreBook X Laptop 14'' Intel Core i3-10100Y, 8GB RAM 256GB SSD, Windows 11 Laptop, 1920x1200 FHD Display, Up to 3.9GHz | WiFi | Webcam | BT4.2 | 38Wh Battery | Iron Gray",19990,3.5,211
+341,,"MSI Raider 18, Intel Series 2 Core Ultra 9 285HX, 46cm UHD+ 120Hz Gaming Laptop (64GB/4TB NVMe SSD/Windows 11 Home/NVIDIA GeForce RTX 5090, GDDR7 24GB/Core Black/3.6Kg) A2XWJG-253IN",490006,2.0,3
+342,,Boldfit Rain Cover for Backpack Travel Essentials Rain Cover for Bag Backpack Rain Cover Travel Accessories Bag Rain Cover Waterproof Dustproof for All Bag Sizes Upto 45Ltrs Rain Cover Bag Black,187,3.9,2500
+343,,"Logitech Brio 100 Full HD Webcam for Meetings and Streaming, Auto-Light Balance, Built-in Mic, Privacy Shutter, USB-A, for Microsoft Teams, Google Meet, Zoom and More- Rose",2995,4.2,24900
+344,,"Lenovo 120 Wired Plug & Play USB Mouse, High Resolution 1600 DPI Optical Sensor, 3-Button Design with clickable Scroll Wheel, Ambidextrous, Ergonomic Mouse for Comfortable All-Day Grip (GY51L52636)",262,4.4,31200
+345,,HP M290 Wireless Mouse (AB3C7AA),386,3.6,389
+346,,"AirCase Premium Laptop Bag with 6 Pockets fits Upto 14.1"" Laptop/MacBook, Wrinkle Free, Padded, Water Resistant Light Neoprene case Cover Sleeve Pouch, for Men & Women, Black- 6 Months Warranty",699,4.3,2000
+347,,"Tukzer Microfiber Cloth - 2 pcs 25X25 cms 280 GSM Cleaning Kit Cloth for Laptop, Monitor, Camera Lens, Binoculars, TV Projector, Electronics (Grey-Blue)",119,4.2,815
+348,,"Craloft Portable 16 inch Laptop Sleeve Cover Bag with Handle - Durable Water-Resistant Polyester Padded Case Compatible with MacBook Air M4, MacBook Pro, Dell, HP, Lenovo - Office & Travel use",645,4.4,116
+349,,HARISSONS Laptop & Mobile Travel Friendly Charger Pouch Organizer for Men & Women | Water Repellent & Weatherproof with Multiple Compartments (Red),236,4.1,38
+350,,"Dell 15 Intel Core i5 13th Gen - 1334U, 16GB DDR4 RAM, 512GB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'21, Grey, 1.66kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",55990,3.6,441
+351,,"Lenovo LOQ, AMD Ryzen 5 7235HS, NVIDIA RTX 3050 6GB, 12GB RAM, 512GB SSD, 15.6""(39.6cm), 144Hz, Windows 11, Office Home 2024, Grey, 2.4Kg, 83JC00EEIN, 3 Mon. Game Pass Gaming Laptop",66990,4.2,98
+352,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 10-core GPU, 16GB Unified Memory, 512GB) - Midnight",112900,4.6,783
+353,,"Lenovo Smartchoice Yoga Slim 7 Aura Edition, Intel Core Ultra 7 258V, 47 Tops, Copilot+ AI PC, 32GB RAM, 1TB SSD, 15""(38.86cm), Windows 11, MS Office Home 2024, Grey, 1.53Kg, 83HM004NIN, AI Laptop",147850,4.2,40
+354,,"Portronics Mport 31 USB Hub Dock (4-in-1), Multiport Adapter with 1 x USB 3.0 & 3 x USB 2.0 Ports, up to 5 Gbps High Speed Data Transfer for Laptop/PC (Grey)",279,4.2,6500
+355,,"Lapcare Lapcam HD 720M P, Noise Isolated Microphone with Computer HD stremaing Web cam for Desktop & Laptop with mic with Wide Angle Lens & Large Sensor for Superior Low Light, Optical (Black)",899,3.5,1300
+356,,"Lapster 3 in 1 Screen Cleaning Kit with Brush and Micro Cloth for PC, laptops, LCD led mobiles and TV (80ML)",149,4.1,2300
+357,,"Portronics Clean N 19 in 1 Smart Gadget Cleaning Kit for Smartphones, Tablets, Laptops, Earbuds(White)",476,4.2,1600
+358,,"Sounce 25 Pcs Spiral Cable Protectors & Wire Protectors Spring Wire for All Wired Accessories for USB Charger, Data Cable, Headphones, MacBook, Laptop, Elastic Cord Saver (Black & Grey)",99,4.2,4400
+359,,"AirCase Protective Laptop Bag Sleeve fits Upto 15.6"" Laptop/MacBook, Wrinkle Free, Padded, Waterproof Light Neoprene case Cover Pouch, for Men & Women, Blue- 6 Months Warranty",379,4.3,1600
+360,,"Dyazo Dual Fan Laptop Cooling pad | Laptop Cooler | Laptop Stand with Fan | 4 Height Adjustment Compatible for MacBook Air Pro, HP, Lenovo, Dell & Other Notebooks up to 15.6 Inch (Black)",699,3.9,4500
+361,,"Maxelon BIS Certified Rechargeable Laptop Battery for Sony Vaio VPCEH38FN VPCEH26EN, VPCEG17FG/B, VPCCA35FN/R, VPCEH25EN, VPCEH35EN, VPCEH18FG/L- (Black)",1994,4.0,8
+362,,"Lenovo IdeaPad Slim 5 Intel Core Ultra 5 125H 16"" (40.6cm) WUXGA-IPS 300Nits Thin & Light Laptop (16GB RAM/1TB SSD/AI PC/Windows 11/Office Home 2024/FHD+IR Camera/1Yr ADP Free/Grey/1.8Kg), 83DC0096IN",72790,3.3,84
+363,,"Lenovo LOQ, AMD Ryzen 5 7235HS, NVIDIA RTX 3050A 4GB, 12GB RAM, 512GB SSD, 15.6""(39.6cm), 144Hz, Windows 11, Office Home 2024, Grey, 2.4Kg, 83JC00HNIN, 3 Mon. Game Pass Gaming Laptop",63990,4.2,98
+364,,Tabelito® Basic Laptop Bag Sleeve Case Cover Pouch for 15.6 Inch Laptop Apple/Dell/Lenovo/Asus/Hp/Samsung/Mi/MacBook/Ultrabook/Thinkpad/Ideapad/Surfacepro (Grey),299,4.1,3700
+365,,Ant Esports NC190 Laptop Cooling Pad Laptop Cooler with Mobile Holder 1 * 1 125mm and 4 * 1 60mm Quite Red Fans LED Display Laptop Holder 5 Height Adjustable Angle 2USB Ports for Laptop up to 15.6”,721,3.6,36
+366,,Wembley Kids Computer Toy Baby Laptops for Kids 1 2 3-6 Years Activity Electronics Number & Alphabet Charts for Kids Learning Educational Toy with Sound and Music - BIS Approved (Pink) (Pink),398,3.5,1700
+367,,Sounce Mouse Pad Mercerized Surface Anti-fray Edges and Anti-Slip Rubber Base Gaming Mouse Pad a Laptop Desk Mat with Smooth Mouse Control Dimensions 900L x 400B x 2H mm (Black),249,4.4,781
+368,,"Dyazo 15.6 Inch Laptop Sleeve with Charger Pouch | Front Pocket with Handle Water Resistant Sleeve Case | Compatible for MacBook, HP, Dell, Acer, Asus, Microsoft, Samsung and Other Notebooks (Grey)",399,4.4,76
+369,,"Sounce 9.5mm Optical Bay Hard Drive Caddy for SSD & HDD | 2nd Hard Drive Adapter for Laptop | SATA 2.5"" HDD/SSD Enclosure | Expand & Upgrade Your Laptop Storage with Ease",169,4.0,678
+370,,"Portronics Toad One Bluetooth Mouse with 2.4 GHz & BT 5.3 Dual Wireless, 6 Buttons, Rechargeable, RGB Lights, Connect 3 Devices, Ergonomic Design for Laptop, Smartphone, Tablet (Black)",552,4.3,6100
+371,,"Portronics Toad 35 Wireless Mouse with 2.4 GHz Wireless, Adjustable Sensitivity, USB Receiver, Ergonomic Design, for Laptops, Desktops PC, Mac (Black)",271,3.9,863
+372,,Ultimus APEX Pro Intel Pentium Quad Core Laptop 4GB RAM 128GB eMMC SSD Expandable~512GB Ultra Thin Bezel 180° Hinge 2.0x1 3.0x1 USB HDMI SD Card Slot Dual Speaker Win11 Home Cloud Silver 1.2Kg,11990,2.8,8
+373,,"Lenovo LOQ, AMD Ryzen 5 7235HS, NVIDIA RTX 3050 6GB, 24GB RAM, 512GB SS SSD, 15.6""(39.6cm), Windows 11, Office Home 2024, Grey, 2.4Kg, 83JC00EFIN, 100% sRGB, 3 Mon. Game Pass Gaming Laptop",71990,4.2,99
+374,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Midnight",94990,4.6,783
+375,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Silver",164490,5.0,1
+376,,Ant Esports NC190 Laptop Cooling Pad Laptop Cooler with Mobile Holder 1 * 1 125mm and 4 * 1 60mm Quite Red Fans LED Display Laptop Holder 5 Height Adjustable Angle 2USB Ports for Laptop up to 15.6”,721,3.6,36
+377,,Wembley Kids Computer Toy Baby Laptops for Kids 1 2 3-6 Years Activity Electronics Number & Alphabet Charts for Kids Learning Educational Toy with Sound and Music - BIS Approved (Pink) (Pink),398,3.5,1700
+378,,Sounce Mouse Pad Mercerized Surface Anti-fray Edges and Anti-Slip Rubber Base Gaming Mouse Pad a Laptop Desk Mat with Smooth Mouse Control Dimensions 900L x 400B x 2H mm (Black),249,4.4,781
+379,,"Dyazo 15.6 Inch Laptop Sleeve with Charger Pouch | Front Pocket with Handle Water Resistant Sleeve Case | Compatible for MacBook, HP, Dell, Acer, Asus, Microsoft, Samsung and Other Notebooks (Grey)",399,4.4,76
+380,,"Sounce 9.5mm Optical Bay Hard Drive Caddy for SSD & HDD | 2nd Hard Drive Adapter for Laptop | SATA 2.5"" HDD/SSD Enclosure | Expand & Upgrade Your Laptop Storage with Ease",169,4.0,678
+381,,"Portronics Toad One Bluetooth Mouse with 2.4 GHz & BT 5.3 Dual Wireless, 6 Buttons, Rechargeable, RGB Lights, Connect 3 Devices, Ergonomic Design for Laptop, Smartphone, Tablet (Black)",552,4.3,6100
+382,,"Portronics Toad 35 Wireless Mouse with 2.4 GHz Wireless, Adjustable Sensitivity, USB Receiver, Ergonomic Design, for Laptops, Desktops PC, Mac (Black)",271,3.9,863
+383,,"Portronics Mport Mino A USB 3.0 Hub Dock (3-in-1) with USB 3.0 SuperSpeed, Compact L-Shape Design, 2-Port USB 2.0 High-Speed, USB Plug, Metal Alloy Body, for Laptop, PC, Mac (Grey)",189,4.1,658
+384,,"Apple 2025 MacBook Pro Laptop with M5 chip, 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 24GB Unified Memory, 1TB SSD Storage; Space Black",202990,5.0,1
+385,,"Apple 2025 MacBook Air (15-inch, Apple M4 chip with 10-core CPU and 10-core GPU, 16GB Unified Memory, 256GB) - Sky Blue",119490,4.6,74
+386,,ZOUK Stylish Office Laptop Bag | Tote Bag For Women Fits Upto 15.6 inch |Purse for Women | Vegan Leather Handbag | Daily & Travel Use,1499,4.4,1200
+387,,"FRONTECH 2.0 USB Computer Speakers, 10W, RGB Lights, AUX & USB Powered with Volume Control, Compatible with Laptop, PC & Mobile (SPK-0004)",459,4.1,34
+388,,"FUNKVERSE Vinyl Wall Reusable Set of 56 Waterproof Laptop Stickers for Programmers, Coders, Developers, and IT Professionals | Bike Helmet, Journal, Diary, Guitar, Bottle, Mobile Decals",199,4.1,90
+389,,"Logitech M235 Wireless Mouse, 1000 DPI Optical Tracking, 12 Month Life Battery, Compatible with Windows, Mac, Chromebook/PC/Laptop",745,4.4,61400
+390,,"cimetech Dual Mode (BT 5.1+2.4G) Wireless Mouse with LED Lights, Silent Portable Lightweight Rechargeable Mouse for Laptop, Compatible with Mac OS/Windows/Chrome OS - Black",992,4.0,5300
+391,,"Gizga Essentials 13.3 Inch Laptop Sleeve Case Cover Pouch Bag with Handle & Front Pocket| Slim & Water-Resistant Nylon Fabric with Shockproof Foam Padding, Soft Lining & Premium Zipper Closure (Black)",269,4.1,242
+392,,"6 Angles Adjustable Aluminum Ergonomic Foldable Portable Tabletop Laptop/Desktop Riser Stand Holder Compatible for MacBook, HP, Dell, Lenovo & All Other Notebook (Silver)",535,4.6,7
+393,,"Maxelon Power Cable & Dell Original 65W USB Type-C Adapter for Laptop, Latitude 5289 5290 7389 7390 7400- Black",1849,4.3,131
+394,,ULTIMUS APEX Laptop Intel Celeron Dual Core 8 GB LPDDR4 512 GB SSD Expandable~1TB 14.1 FHD IPS Laptop Anti-Glare Ultra Thin Bezel 180° Hinge 3.0x3 USB HDMI SD Card Slot Win 11 Home 1.25KG Silver,17990,3.6,93
+395,,"Lenovo IdeaPad Slim 3, Intel Core i3 13th Gen 1315U, 8GB RAM, 512GB SSD, FHD 15.6""(39.6cm), Windows 11, Office 2024, Grey, 1.6Kg, 82X700G5IN, Alexa Built-in, 1Yr ADP Free, 3 Month Game Pass Laptop",37990,3.7,9
+396,,"Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Silver",94990,4.6,783
+397,,"Dell 15DC15250, Intel Core i5 13th Gen - 1334U, 16GB RAM, 1TB SSD, FHD 15.6""/39.62 cm, Windows 11, MSO'24, Silver, 1.62kg, Backlit Keyboard, 15 Month McAfee, Thin & Light Laptop",59990,3.9,1100
+398,,"Tukzer Microfiber Cloth - 2 pcs 25X25 cms 280 GSM Cleaning Kit Cloth for Laptop, Monitor, Camera Lens, Binoculars, TV Projector, Electronics (Grey-Blue)",119,4.2,815
+399,,Ant Esports NC190 Laptop Cooling Pad Laptop Cooler with Mobile Holder 1 * 1 125mm and 4 * 1 60mm Quite Red Fans LED Display Laptop Holder 5 Height Adjustable Angle 2USB Ports for Laptop up to 15.6”,721,3.6,36
+400,,"cimetech Dual Mode (BT 5.1+2.4G) Wireless Mouse with LED Lights, Silent Portable Lightweight Rechargeable Mouse for Laptop, Compatible with Mac OS/Windows/Chrome OS - Black",992,4.0,5300
+401,,Saco Silicone Skin Laptop Keyboard Protector Cover Compatible for HP 15s gr Series 15s-gr0009au | 15s-gr0010au | 15s-gr0011au 15.6 Inch Laptop - Transparent,299,4.2,753
+402,,"AirCase Premium Laptop Bag with 6 Pockets fits Upto 15.6"" Laptop/MacBook, Wrinkle Free, Padded, Waterproof Light Neoprene case Cover Sleeve Pouch, for Men & Women, Grey- 6 Months Warranty",699,4.4,3700
+403,,"Ant Esports NC230 RGB Gaming Notebook Cooler, 10"" - 17"" + Gaming Laptop Cooling Pad for PC + USB Powered Fan + Very Stable and Silent + Compatible Mac and PS5/PS4",599,3.8,518
+404,,"HP Z3700 Dual Black Mouse, Bluetooth 5.0, USB-A dongle, 2.4 GHz Wireless Connection, Multi-Surface Tracking, Silent clicks, Up to 1600 dpi, 16-Month Battery Life, 3-Year Warranty, 50g, Black, 758A8AA",1099,4.0,3100
+405,,"Full Laptop Skin Bubble-Free HD Quality Sticker for Laptops Upto 15.6"" Compatible with Apple/Dell/HP/Lenovo/Acer/Asus/Sony (Dustproof|Waterproof|Scratchproof|Reusable)-Dreams FL SPE3",248,3.2,19
+406,,"HP 15, Intel Core Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)*Office24, Silver, 1.65kg, fd1354TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",64990,3.9,1700
+407,,"ULTIMUS Pro Intel Celeron Dual Core Laptop 4GB RAM, 128GB M.2 Emmc Expandable~512GB Intel HD Graphics 2.0x1 3.0x1 USB HDMI Sd Card Slot ‎LPDDR4 Dual Speaker Dual Microphone Win 11 Home Gray, 1.2 kg",11990,3.4,87
+408,,"Maxelon BIS Certified Rechargeable Laptop Battery for Sony Vaio VPCEH38FN VPCEH26EN, VPCEG17FG/B, VPCCA35FN/R, VPCEH25EN, VPCEH35EN, VPCEH18FG/L- (Black)",1994,4.0,8
+409,,"Portronics Mport 31 USB Hub Dock (4-in-1), Multiport Adapter with 1 x USB 3.0 & 3 x USB 2.0 Ports, up to 5 Gbps High Speed Data Transfer for Laptop/PC (Grey)",279,4.2,6500
+410,,Sounce Mouse Pad Mercerized Surface Anti-fray Edges and Anti-Slip Rubber Base Gaming Mouse Pad a Laptop Desk Mat with Smooth Mouse Control Dimensions 900L x 400B x 2H mm (Black),249,4.4,781
+411,,ZOUK Stylish Office Laptop Bag | Tote Bag For Women Fits Upto 15.6 inch |Purse for Women | Vegan Leather Handbag | Daily & Travel Use,1499,4.4,1200
+412,,"Hp USB-C 65W Laptop Charger, 65W, Type-C USB, Ac Adapter (671R2Aa) - Black",2899,4.6,92
+413,,"Mini Laptop Stand for Desk Holder Computer Portable Foldable Adjustable Notebook Stands, Aluminium Metal MacBook Stand, Compatible with 10-15.6 Inch Laptops, iPad-Silver (Pack of 2)",249,4.4,7
+414,,"acer Flow Wireless Mouse | 1600 DPI Optical Sensor | 2.4GHz Wireless with USB Nano Receiver | Ergonomic Lightweight Design | Smooth Tracking for Laptop, PC & Mac – White/Green",334,4.1,866
+415,,HARISSONS Laptop & Mobile Travel Friendly Charger Pouch Organizer for Men & Women | Water Repellent & Weatherproof with Multiple Compartments (Red),236,4.1,38
+416,,"Primebook 2 Pro 2025 (New Launch) | 8GB RAM, 128GB UFS Storage | 14.1-Inch FHD IPS Display | 14 Hours Battery | MediaTek Helio G99 | Android 15 (PrimeOS 3.0) | Backlit Keyboard | in-Built AI (Gray)",18890,4.5,127
+417,,"Lenovo IdeaPad Slim 5 Intel Core Ultra 5 125H Built-in AI 16"" (40.6cm) WUXGA-IPS 300Nit Thin & Light Laptop (16GB/1TB SSD/Win 11/MSO 21/FHD+IR Cam/1Yr ADP Free/3 mon Game Pass/Grey/1.9Kg), 83DC0042IN",65650,3.3,84
